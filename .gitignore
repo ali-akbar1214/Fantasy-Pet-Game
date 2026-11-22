@@ -1,0 +1,21 @@
+# Build outputs
+*.exe
+*.dll
+*.o
+*.obj
+*.pdb
+
+# IDE-local files
+*.dev
+*.layout
+.vscode/
+.idea/
+
+# User-specific runtime data and licensed local font
+leaderboard.txt
+arial.ttf
+
+# Environment files
+.env
+.env.*
+!.env.example
